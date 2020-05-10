@@ -1,2 +1,2 @@
-# weatherman
-lora-connected environment sensor
+# temperature
+lora-connected temperature sensor
